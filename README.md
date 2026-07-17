@@ -1,1 +1,4 @@
-pls chec[C[C[C[C[C[C[C[C[C[Cthis file is modifyed by the dev1
+
+this file is modifyed by the dev2 okay
+=======
+this file is modfiyed by the dev1
